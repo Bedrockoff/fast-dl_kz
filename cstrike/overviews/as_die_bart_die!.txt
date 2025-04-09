@@ -1,0 +1,14 @@
+// overview description file for as_die_bart_die!.bsp
+
+global 
+{
+	ZOOM	2.55
+	ORIGIN	-95.19	-1031.75	236
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/as_die_bart_die!.tga"
+	HEIGHT	1
+}
