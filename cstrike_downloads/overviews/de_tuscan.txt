@@ -1,0 +1,16 @@
+// overview description file for de_tuscan.bsp
+
+global 
+{
+	ZOOM	1.57
+	ORIGIN	-187.84  254.05  320.00
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/de_tuscan.bmp"
+	HEIGHT	320.00
+}
+
+// Overview: Zoom 1.57, Origin (-187.84, 254.05, 320.00), Z Min 737.00, Z Max -97.00, Rotated 0

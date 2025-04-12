@@ -1,0 +1,4 @@
+3
+weapon			640 next21_scp/hud_weapons03_a02	0	0	170	45
+weapon_s		640 next21_scp/hud_weapons04_a02	0	0	170	45
+ammo			640 next21_scp/hud_weapons03_a02	232	0	24	24

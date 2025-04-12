@@ -1,0 +1,16 @@
+// overview description file for de_mirage.bsp
+
+global 
+{
+	ZOOM	1.74
+	ORIGIN	-784.00  192.00  60.00
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/de_mirage.bmp"
+	HEIGHT	60.00
+}
+
+//  Overview: Zoom 1.74, Map Origin (-784.00, 192.00, 60.00), Z Min 169.00, Z Max -201.00, Rotated 1

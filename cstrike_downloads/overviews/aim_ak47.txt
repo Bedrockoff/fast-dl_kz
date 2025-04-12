@@ -1,0 +1,16 @@
+// overview description file for aim_ak47.bsp
+
+global 
+{
+	ZOOM	3.76
+	ORIGIN	16.00  0.00  200.00
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/aim_ak47.bmp"
+	HEIGHT	200.00
+}
+
+// Overview: Zoom 3.76, Map Origin (16.00, 0.00, 200.00), Z Min 136.00, Z Max -49.00, Rotated 0

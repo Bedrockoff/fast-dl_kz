@@ -1,0 +1,55 @@
+// [texture name]	[detail texture name]		[hscale]	[vscale]
+
+scp_door01a_m		next21_scp/scp_door01a_hd	1.0 		1.0
+scp_door02a_m		next21_scp/scp_door02a_hd	1.0 		1.0
+scp_door03a_m		next21_scp/scp_door03a_hd	1.0 		1.0
+scp_door03b_m		next21_scp/scp_door03b_hd	1.0 		1.0
+scp_door04a_m		next21_scp/scp_door04a_hd	1.0 		1.0
+scp_floor01a_m		next21_scp/scp_floor01a_hd	1.0 		1.0
+scp_floor01b_m		next21_scp/scp_floor01b_hd	1.0 		1.0 
+scp_floor03_m		next21_scp/scp_floor03_hd	1.0 		1.0
+scp_floor05_m		next21_scp/scp_floor05_hd	1.0 		1.0
+scp_floor06_m		next21_scp/scp_floor06_hd	1.0 		1.0
+scp_tile01a_m		next21_scp/scp_tile01_hd	1.0 		1.0
+scp_tile01b_m		next21_scp/scp_tile01_hd	1.0 		1.0
+scp_tile02a_m		next21_scp/scp_tile01a_hd	1.0 		1.0
+scp_tile02b_m		next21_scp/scp_tile01b_hd	1.0 		1.0
+scp_light01_pl		next21_scp/scp_light_hd		1.0 		1.0
+scp_light02_pl		next21_scp/scp_light_hd		1.0 		1.0
+scp_light03_m		next21_scp/scp_light_hd		1.0 		1.0
+scp_light04_sl		next21_scp/scp_light_hd		1.0 		1.0
+scp_wall01_m		next21_scp/scp_wall01_hd	1.0 		1.0
+scp_wall02_m		next21_scp/scp_wall02_hd	1.0 		1.0
+scp_wall03a_m		next21_scp/scp_wall03_hd	1.0 		1.0
+scp_wall03b_m		next21_scp/scp_wall03_hd	1.0 		1.0
+scp_wall05a_m		next21_scp/scp_wall05a_hd	1.0 		1.0
+scp_wall07_m		next21_scp/scp_wall07_hd	1.0 		1.0
+scp_wall08_m		next21_scp/scp_wall03_hd	1.0 		1.0
+scp_wall10_m		next21_scp/scp_wall10_hd	1.0 		1.0
+scp_wall11_m		next21_scp/scp_wall11_hd	1.0 		1.0
+scp_wall11c_m		next21_scp/scp_wall11_hd	1.0 		1.0
+scp_wall12_m		next21_scp/scp_wall12_hd	1.0 		1.0
+scp_wall13_m		next21_scp/scp_wall13_hd	1.0 		1.0
+scp_wall14_m		next21_scp/scp_wall14_hd	1.0 		1.0
+scp_wall16_m		next21_scp/scp_wall16_hd	1.0 		1.0
+scp_wall17_m		next21_scp/scp_wall17_hd	1.0 		1.0
+scp_vtr_m		next21_scp/scp_vtr_hd		1.0 		1.0
+
+scps_panel01_m		next21_scp/scps_panel01_hd	1.0 		1.0
+
+scpw_floor01a_m		next21_scp/scpw_floor01a_hd	1.0 		1.0
+scpw_floor01b_m		next21_scp/scpw_floor01b_hd	1.0 		1.0
+scpw_floor05_m		next21_scp/scp_floor05_hd	1.0 		1.0
+scpw_wall03_m		next21_scp/scp_wall03_hd	1.0 		1.0
+scpw_trim_m		next21_scp/scpw_trim_hd		1.0 		1.0
+scpw_snow02_m		next21_scp/scpw_snow02_hd	1.0 		1.0
+scpw_road01_m		next21_scp/scpw_road01_hd	1.0 		1.0
+
+
+scp1123_floor_m		next21_scp/scp1123_floor_hd	1.0 		1.0
+scp1123_gr_m		next21_scp/scp1123_gr_hd	1.0 		1.0
+scp1123_roof_m		next21_scp/scp1123_roof_hd	1.0 		1.0
+scp1123_trim_m		next21_scp/scp1123_trim_hd	1.0 		1.0
+scp1123_wall_m		next21_scp/scp1123_wall_hd	1.0 		1.0
+scp1123_win_m		next21_scp/scp1123_win_hd	1.0 		1.0
+scp1123_wood_m		next21_scp/scp1123_wood_hd	1.0 		1.0

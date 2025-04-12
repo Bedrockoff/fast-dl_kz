@@ -1,0 +1,16 @@
+// overview description file for de_dust2_2x2.bsp
+
+global 
+{
+	ZOOM	1.94
+	ORIGIN	503.85 1018.46 192.00
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/de_dust2_2x2.bmp"
+	HEIGHT	192.00
+}
+
+// Overview: Zoom 1.94, Origin (503.85, 1018.46, 192.00), Z Min 705.00, Z Max -321.00, Rotated 0

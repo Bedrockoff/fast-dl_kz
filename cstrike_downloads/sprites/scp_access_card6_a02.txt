@@ -1,0 +1,4 @@
+3
+weapon			640 next21_scp/hud_access_card03_a03	0	0	170	45
+weapon_s		640 next21_scp/hud_access_card04_a03	0	0	170	45
+ammo			640 640hud7	0	72	24	24
