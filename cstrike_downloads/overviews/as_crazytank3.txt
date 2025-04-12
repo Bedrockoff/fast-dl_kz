@@ -1,0 +1,12 @@
+global 
+{
+	ZOOM	0.71
+	ORIGIN	256	480	-769
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/as_crazytank3.bmp"
+	HEIGHT	-769
+}

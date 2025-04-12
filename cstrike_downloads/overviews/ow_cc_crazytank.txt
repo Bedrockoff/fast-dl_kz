@@ -1,0 +1,13 @@
+global
+{
+	ZOOM	1.03
+	ORIGIN	960	0	-1609
+	ROTATED	0
+}
+
+layer
+{
+	IMAGE "overviews/ow_cc_crazytank.bmp"
+	HEIGHT	-1609
+}
+

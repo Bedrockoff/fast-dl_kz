@@ -1,0 +1,13 @@
+global
+{
+	ZOOM	0.86
+	ORIGIN	-223.05	124.61	-193
+	ROTATED	0
+}
+
+layer
+{
+	IMAGE "overviews/supercrazycar.bmp"
+	HEIGHT	-193
+}
+

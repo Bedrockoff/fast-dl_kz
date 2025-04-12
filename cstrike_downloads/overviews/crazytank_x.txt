@@ -1,0 +1,14 @@
+// overview description file for crazytank_x.bsp
+
+global 
+{
+	ZOOM	0.96
+	ORIGIN	704	0	-3049
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/crazytank_x.bmp"
+	HEIGHT	-3049
+}

@@ -1,0 +1,12 @@
+global 
+{
+	ZOOM	1.38
+	ORIGIN	-616	-136	-49
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/as_crazycar_v2.bmp"
+	HEIGHT	-49
+}
